@@ -32,6 +32,4 @@ public class Cone extends CircleBase{
     public void setHeight(int height) {
         this.height = height;
     }
-
-
 }

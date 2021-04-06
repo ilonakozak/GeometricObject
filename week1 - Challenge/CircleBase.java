@@ -14,6 +14,4 @@ abstract  class CircleBase {
 
     //abstract method for calculation surface area
     abstract double calculateSurfaceArea();
-
-
 }
